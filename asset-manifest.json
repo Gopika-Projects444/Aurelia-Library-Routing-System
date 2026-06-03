@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Aurelia-Library-Routing-System/static/css/main.999b1c97.css",
-    "main.js": "/Aurelia-Library-Routing-System/static/js/main.fce84379.js",
+    "main.js": "/Aurelia-Library-Routing-System/static/js/main.1f78fe50.js",
     "static/js/453.1dc304ea.chunk.js": "/Aurelia-Library-Routing-System/static/js/453.1dc304ea.chunk.js",
     "index.html": "/Aurelia-Library-Routing-System/index.html",
     "main.999b1c97.css.map": "/Aurelia-Library-Routing-System/static/css/main.999b1c97.css.map",
-    "main.fce84379.js.map": "/Aurelia-Library-Routing-System/static/js/main.fce84379.js.map",
+    "main.1f78fe50.js.map": "/Aurelia-Library-Routing-System/static/js/main.1f78fe50.js.map",
     "453.1dc304ea.chunk.js.map": "/Aurelia-Library-Routing-System/static/js/453.1dc304ea.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.999b1c97.css",
-    "static/js/main.fce84379.js"
+    "static/js/main.1f78fe50.js"
   ]
 }
